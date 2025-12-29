@@ -18,7 +18,7 @@
 #include <HTTPClient.h>
 #include <WiFiUdp.h>
 #include <ESPmDNS.h>
-#include <ESP32Ping.h>
+#include <ESPping.h>
  
  // Pin definitions
  #define POWER_SWITCH_PIN 2      // GPIO2 - connects to PC power switch (pull LOW to start)
