@@ -93,7 +93,7 @@ Go to `Sketch > Include Library > Manage Libraries` and install:
 - **HTTPClient** (usually included with ESP32)
 - **WiFiUdp** (usually included with ESP32)
 - **ESPmDNS** (usually included with ESP32)
-- **ESP32Ping** by David Antliff (for proper ICMP ping functionality)
+- **ESPping** by dvarrel (for proper ICMP ping functionality)
 
 ### 3. Upload the Code
 
